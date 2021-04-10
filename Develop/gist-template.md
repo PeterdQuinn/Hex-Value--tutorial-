@@ -48,4 +48,5 @@ and also the 0-9 range. and that matches a characer in the range "0" to "9"(char
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+    my name is Peter Quinn I hope you found my gist to have the information you need to succeed in your journey of the coding world!
+    
