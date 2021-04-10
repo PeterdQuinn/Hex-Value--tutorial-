@@ -32,14 +32,21 @@ Briefly summarize the regex you will be describing and what you will explain."I 
 
 
 ### Quantifiers
-
+ Now the Quantifiers for this expression matches the specified quanity of the previous token. {1,3} will match 1 to 3. {3} will match exactly 3. {3,} will match or more.
 ### OR Operator
 
-### Character Classes
 
+
+### Character Classes
+ the only charcter class with this expression would be the "#" char 35
 ### Flags
 
 ### Grouping and Capturing
+groups multiple tokens together and creates a capture group
+for extracting a substring or using a backreference and example of 
+this would be "(ha) +"
+
+
 
 ### Bracket Expressions
 
