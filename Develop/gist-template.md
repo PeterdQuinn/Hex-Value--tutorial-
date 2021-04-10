@@ -34,7 +34,7 @@ Welcome to Matching a Hex value you with reggex expresions, I am going to be giv
 
 ### Quantifiers
  Now the Quantifiers for this expression matches the specified quanity of the previous token. {1,3} will match 1 to 3. {3} will match exactly 3. {3,} will match or more.
-### OR Operator
+
 
 
 
@@ -52,15 +52,6 @@ and also the 0-9 range. and that matches a characer in the range "0" to "9"(char
 
 
 
-### Bracket Expressions
-
-### Greedy and Lazy Match
-
-### Boundaries
-
-### Back-references
-
-### Look-ahead and Look-behind
 
 ## Author
 
