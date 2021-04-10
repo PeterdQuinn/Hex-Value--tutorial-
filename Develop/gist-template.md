@@ -1,11 +1,11 @@
 # WELCOME TO MY REGEX TUTORIAL
 
-Introductory paragraph-
-WELCOME TO MY 
+Introductory paragraph
+Welcome to Matching a Hex value you with reggex expresions, I am going to be giving you a break down of the 'Hex value' expression.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Briefly summarize the regex you will be describing and what you will explain."I Will be covering the regex expression 'Hex value',and how to create and read the expression as well as a break down Matching a Hex Value &ndash; `/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`.
 
 ## Table of Contents
 
