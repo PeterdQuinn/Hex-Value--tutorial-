@@ -22,6 +22,7 @@ Briefly summarize the regex you will be describing and what you will explain."I 
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
+`/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`.
 
 ### Anchors
     Now the Anchors that are with this expression are as follows
