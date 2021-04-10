@@ -1,6 +1,7 @@
-# Title (replace with your title)
+# WELCOME TO MY REGEX TUTORIAL
 
-Introductory paragraph (replace this with your text)
+Introductory paragraph-
+WELCOME TO MY 
 
 ## Summary
 
