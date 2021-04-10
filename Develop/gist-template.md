@@ -24,6 +24,12 @@ Briefly summarize the regex you will be describing and what you will explain."I 
 ## Regex Components
 
 ### Anchors
+    Now the Anchors that are with this expression are as follows
+    "^"- this anchor is the beginning of an empty string
+    "$"- this anchor signals an end to a string
+    "\b"- this signals a word boundry
+    "\B"- this signals not a word boundary
+
 
 ### Quantifiers
 
