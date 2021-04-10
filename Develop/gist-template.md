@@ -5,7 +5,7 @@ Welcome to Matching a Hex value you with reggex expresions, I am going to be giv
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain."I Will be covering the regex expression 'Hex value',and how to create and read the expression as well as a break down Matching a Hex Value &ndash; `/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`.
+"I Will be covering the regex expression 'Hex value',and how to create and read the expression as well as a break down Matching a Hex Value &ndash; `/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`.
 
 ## Table of Contents
 
@@ -45,7 +45,10 @@ Briefly summarize the regex you will be describing and what you will explain."I 
 ### Grouping and Capturing
 groups multiple tokens together and creates a capture group
 for extracting a substring or using a backreference and example of 
-this would be "(ha) +"
+this would be "(ha) +".
+THE Capturing group for this expression is "(ABC)
+THE A-f range matchs a  character in the range "a" to "f"(char code 97 to 102) , and they are case senstive.
+and also the 0-9 range. and that matches a characer in the range "0" to "9"(char code 48 to 57). and those are case sensitve as well.
 
 
 
